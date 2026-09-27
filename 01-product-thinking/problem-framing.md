@@ -1,5 +1,3 @@
-# Problem Framing
-
 ## What is Problem Framing?
 
 Problem framing is the process of clearly defining **what problem we are trying to solve, who is experiencing it, and why it matters** before jumping into solutions.
